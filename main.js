@@ -15,4 +15,4 @@ const storeDescription = {
 
 console.log(`Мене звати ${storeName}`);
 
-console.log('Мене звати ' + storeName);
+console.log('Мене звати ' + storeName + '123');

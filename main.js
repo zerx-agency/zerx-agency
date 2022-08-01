@@ -12,20 +12,7 @@ const storeDescription = {
 	},
 	open: true,
 };
-class Rectangle {
-	constructor(height, width) {
-		this.height = height;
-		this.width = width;
-	}
-}
-let arr = [];
-function a() {
-	let asd = 0;
-	return 1;
-}
-console.log(`Мене звати ${storeName}`);
 
 console.log(`Мене звати ${storeName}`);
+
 console.log('Мене звати ' + storeName);
-console.log('Мене звати ');
-console.log(`Мене звати`);
